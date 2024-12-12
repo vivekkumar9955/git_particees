@@ -1,0 +1,4 @@
+#IGNORE LOGS FILE
+*.logs
+project.logs
+*.gitignore
